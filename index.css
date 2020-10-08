@@ -7,14 +7,14 @@
 @keyframes blinkingText{
 	0%{	color: transparent;	}
 	49%{	color: transparent;	}
-	50%{	color: #33FF00; }
-	99%{	color: #33FF00;	}
+	50%{	color: #FFFFFF; }
+	99%{	color: #FFFFFF;	}
 	100%{	color: transparent;	}
 	}
 
 body{
-    color: #33FF00;
-    background-color: #000000;
+    color: #FFFFFF;
+    background-color: #1f1f1f;
     margin: 40px auto;
     max-width: 1100px;
     line-height: 1.6em;
